@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2bc0167-bb30-400b-b537-915b6010112a": {
+      "ProjectGuid": "c2bc0167-bb30-400b-b537-915b6010112a",
+      "DisplayName": "Random DnD Generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
