@@ -6,3 +6,7 @@ https://editor.gmbinder.com/documents/edit/-N4TKInufQQoAQslyXQl
 
 Banner Maker:
 https://nailek.net/gw2/emblemeditor/#
+https://svgtopng.com/
+
+Encounter Difficulty Calculator:
+https://kastark.co.uk/rpgs/encounter-calculator-5th/
