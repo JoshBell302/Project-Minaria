@@ -1,7 +1,0 @@
-- Create Gods or use gods but place their religions in the game
-- Make 2 god warriors for each World
-- Leaders of certain areas and empireship
-- Smallar organizations (thieves guild or simillar groups as that)
-- Create the history of the universe
-- Create a more intriquet backgrounds for the players
-- Create the world of Verrona (Underdark like) and Exynn (Posssibly Fey like)
